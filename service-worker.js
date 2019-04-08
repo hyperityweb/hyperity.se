@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hyperity.se/precache-manifest.cc43919ed7ecbe27d3d36707f2cd1688.js"
+  "/hyperity.se/precache-manifest.8c9236d4fa257f610eb02df7df84d3c4.js"
 );
 
 workbox.clientsClaim();
