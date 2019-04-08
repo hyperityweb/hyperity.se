@@ -24,7 +24,7 @@ class App extends Component {
       <Provider>
         <Router>
           <div className="App">
-            <Header branding="Growthonics"/>
+            <Header branding="Hyperity"/>
             <div className="container">
               <Switch>
                 <Route exact path="/" component = {Contacts}/>
